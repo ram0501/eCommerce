@@ -1,0 +1,15 @@
+Product Controller API's
+1.get Product Done
+2.add Product Done
+3.get one Product Done
+4.filter product Done
+
+5. Rate Product Done
+6.Add items to the cart Done
+7.Get items of cart Done
+8.Remove items from cart Done
+
+
+UserController
+signup-name,email,password,typeofuser(customer,seller) Done
+signin-emil,password Done
